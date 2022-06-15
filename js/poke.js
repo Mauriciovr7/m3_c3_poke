@@ -52,8 +52,8 @@ const datos = (i) => {
   })
 }
 
-const myModal = document.getElementById('myModal')
-const myInput = document.getElementById('myInput')
+// const myModal = document.getElementById('myModal')
+// const myInput = document.getElementById('myInput')
 
 // myModal.addEventListener('click', () => {
 // })
@@ -62,15 +62,15 @@ const myInput = document.getElementById('myInput')
 //   alert('Hi');
 // }).modal('show')
 
-let lupas = document.querySelectorAll(".pokes > img")
-for (let j = 0; j < lupas.length; j++) {
-  lupas[j].addEventListener("mouseover", function () {
-    this.classList.add('lupa')
-  })
-}
+// let lupas = document.querySelectorAll(".pokes > img")
+// for (let j = 0; j < lupas.length; j++) {
+//   lupas[j].addEventListener("mouseover", function () {
+//     this.classList.add('lupa')
+//   })
+// }
 
-for (let k = 0; k < lupas.length; k++) {
-  lupas[k].addEventListener("mouseout", function () {
-    this.classList.remove('lupa')
-  })
-}
+// for (let k = 0; k < lupas.length; k++) {
+//   lupas[k].addEventListener("mouseout", function () {
+//     this.classList.remove('lupa')
+//   })
+// }
