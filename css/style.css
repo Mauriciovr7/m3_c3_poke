@@ -7,5 +7,6 @@ h1 {
 }
 
 .lupa {
+  border-radius: 50%;
   border: 2px solid red;
 }
