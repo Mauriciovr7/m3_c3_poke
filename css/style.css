@@ -5,3 +5,7 @@
 h1 {
   text-align: center;
 }
+
+.lupa {
+  border: 2px solid red;
+}
